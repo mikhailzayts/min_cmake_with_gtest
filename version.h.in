@@ -1,0 +1,4 @@
+// Import definitions from CMake variables
+#define VER_MAJOR @min_cmake_proj_VERSION_MAJOR@
+#define VER_MINOR @min_cmake_proj_VERSION_MINOR@
+#define VER_PATCH @min_cmake_proj_VERSION_PATCH@
