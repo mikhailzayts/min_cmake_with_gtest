@@ -1,5 +1,0 @@
-if(EXISTS "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/test/test_run[1]_tests.cmake")
-  include("/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/test/test_run[1]_tests.cmake")
-else()
-  add_test(test_run_NOT_BUILT test_run_NOT_BUILT)
-endif()

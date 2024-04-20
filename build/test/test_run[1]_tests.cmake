@@ -1,5 +1,0 @@
-add_test([=[test1.Something]=]  /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/test/test_run [==[--gtest_filter=test1.Something]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[test1.Something]=]  PROPERTIES WORKING_DIRECTORY /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[super.GetMagic]=]  /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/test/test_run [==[--gtest_filter=super.GetMagic]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[super.GetMagic]=]  PROPERTIES WORKING_DIRECTORY /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-set(  test_run_TESTS test1.Something super.GetMagic)
