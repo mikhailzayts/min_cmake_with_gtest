@@ -1,0 +1,17 @@
+# ninja log v5
+1	592	1713452737486152008	CMakeFiles/exec_target.dir/src/main.cpp.o	7c17ab25bfde428b
+1	594	1713452737486470131	src/super/CMakeFiles/super_library.dir/super.cpp.o	8f54e370bf2e5806
+594	648	1713452737548370000	src/super/libsuper_library.a	660896b90b150e75
+648	703	1713452737600836956	exec_target	8559a80220a67df
+2	792	1713452737687460777	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	5ee183c6ef94b5fe
+1	812	1713452737707380701	test/CMakeFiles/test_run.dir/test_run.cpp.o	b452caace869dddc
+1	890	1713452737785199324	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	a81459c8017f4703
+1	1219	1713452738111630478	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	7887a73703cd32a1
+1	1767	1713452738658932535	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	4969a3e1ded3764f
+1767	1797	1713452738696783000	lib/libgtest.a	894db385430ae923
+1797	1812	1713452738712471000	lib/libgtest_main.a	686dc8bd813b67bc
+1797	1817	1713452738717472000	lib/libgmock.a	fe972330cda56d6e
+1817	1835	1713452738735388000	lib/libgmock_main.a	bf68ee06eca8a38
+1812	2182	1713452739081513953	test/test_run	5c3eebe170c3935c
+1812	2182	1713452739081513953	test/test_run[1]_tests.cmake	5c3eebe170c3935c
+1812	2182	1713452739081513953	/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/test/test_run[1]_tests.cmake	5c3eebe170c3935c

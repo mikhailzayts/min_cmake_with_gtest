@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/src -I/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build -I/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/src/super -I/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/test -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/exec_target.dir/src/main.cpp.o -c /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/src/main.cpp",
+  "file": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/src/main.cpp",
+  "output": "CMakeFiles/exec_target.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/src/super -I/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/test -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o src/super/CMakeFiles/super_library.dir/super.cpp.o -c /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/src/super/super.cpp",
+  "file": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/src/super/super.cpp",
+  "output": "src/super/CMakeFiles/super_library.dir/super.cpp.o"
+},
+{
+  "directory": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/src/super -I/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/test -isystem /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest/include -isystem /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o test/CMakeFiles/test_run.dir/test_run.cpp.o -c /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/test/test_run.cpp",
+  "file": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/test/test_run.cpp",
+  "output": "test/CMakeFiles/test_run.dir/test_run.cpp.o"
+},
+{
+  "directory": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googlemock/include -I/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googlemock -isystem /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest/include -isystem /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -isystem /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googlemock/include -isystem /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googlemock -isystem /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest/include -isystem /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest/include -I/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -isystem /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest/include -isystem /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

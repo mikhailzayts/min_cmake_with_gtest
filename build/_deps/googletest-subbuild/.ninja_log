@@ -1,0 +1,21 @@
+# ninja log v5
+1	10	1713452731394458431	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	344ac5f61ccd4031
+1	10	1713452731394458431	/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	344ac5f61ccd4031
+11	5068	1713452736451616539	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	f7b8c4b06ed356af
+11	5068	1713452736451616539	/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	f7b8c4b06ed356af
+5068	5077	1713452736460917276	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	13997ad30608feef
+5068	5077	1713452736460917276	/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	13997ad30608feef
+5077	5085	1713452736469292185	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	7022f13bce13621d
+5077	5085	1713452736469292185	/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	7022f13bce13621d
+5085	5094	1713452736477989509	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	fb6e96ee24067ec0
+5085	5094	1713452736477989509	/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	fb6e96ee24067ec0
+5094	5102	1713452736486357084	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	e3660ebb15df41bc
+5094	5102	1713452736486357084	/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	e3660ebb15df41bc
+5102	5110	1713452736494418911	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	db9ed3320ab5ac7b
+5102	5110	1713452736494418911	/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	db9ed3320ab5ac7b
+5110	5123	1713452736507024629	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	3128bc2937e2d38e
+5110	5123	1713452736507024629	/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	3128bc2937e2d38e
+5123	5135	1713452736518710809	CMakeFiles/googletest-populate-complete	41f331cac4462bf
+5123	5135	1713452736518710809	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	41f331cac4462bf
+5123	5135	1713452736518710809	/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	41f331cac4462bf
+5123	5135	1713452736518710809	/Users/mikhailzayts/proj/learning_cpp/min_cmake_with_gtest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	41f331cac4462bf

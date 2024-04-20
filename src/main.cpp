@@ -9,9 +9,7 @@ void print_version(void);
 int main ()
 {
     print_version();
-
     super_func();
-
     return 0;
 }
 
